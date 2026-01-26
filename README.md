@@ -1,5 +1,5 @@
 # Photography-Website
-**Author:** Christine  
+**Author:** Christine Wangechi 
 
 ## Description
 This is a photography portfolio website showcasing my favorite photos, memories, and travels.
@@ -18,7 +18,7 @@ Christine Wangechi
 mailto:christinewangechik@gmail.com
 
 ## Live Site
-[View the live site here](https://github.com/lmbfao/Photography-Website#/)
+[View the live site here](https://lmbfao.github.io/Photography-Website/)
 
 ## Technologies Used
 - HTML
