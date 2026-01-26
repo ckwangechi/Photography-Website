@@ -8,7 +8,7 @@ It highlights photography as a way of preserving emotions, moments, and stories.
 ## Setup Instructions
 1. Clone the repository
 2. Open `index.html` in your browser
-3. Explore the gallery and contact form
+3. Explore the website
 
 # Project Title
 Photography Website
