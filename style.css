@@ -25,6 +25,7 @@ div {
 
 .bio {
   text-align: center;
+  display: block;
 }
 
 .bio-img{
@@ -49,8 +50,7 @@ div {
   grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
   gap: 15px;
   max-width: 80%;
-  background-color: rgba(31, 61, 43, 0.05);
-  box-shadow: #1f3d2b;
+  background-color: rgba(30, 59, 41, 0.05);
   padding: 22px;
   border-radius: 16px;
 }
@@ -83,6 +83,7 @@ div {
 
 footer {
   font-style: italic;
+  font-weight: 100;
   text-align: center;
   margin-top: 55px;
   padding: 22px;
