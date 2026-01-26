@@ -18,7 +18,7 @@ Christine Wangechi
 mailto:christinewangechik@gmail.com
 
 ## Live Site
-[View the live site here](https://your-username.github.io/your-repo-name/)
+[View the live site here](https://github.com/lmbfao/Photography-Website#/)
 
 ## Technologies Used
 - HTML
